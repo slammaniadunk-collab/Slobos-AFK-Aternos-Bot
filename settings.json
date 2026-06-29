@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "calmn_ess.aternos.me",
-    "port": 12700,
+    "ip": "slammaniadunk.aternos.me",
+    "port": 26577,
     "version": "",
     "try-creative": false
   },
